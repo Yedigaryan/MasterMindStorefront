@@ -1,6 +1,6 @@
 # MasterMindStorefront
 Car parts webstore
 
-# init start
+# Init start
 npm install --global http-server
 http-server MasterMindStorefront
